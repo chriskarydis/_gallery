@@ -9,7 +9,7 @@ events:
 - PCjr[A]:16 volume settings / 6 bit
 - Tandy 1000[A]
 - Covox:8 bit
-- AdLib: 64 volume settings / 8 bit
+- AdLib:64 volume settings / 8 bit
 - Roland MT-32:16 bit
 - Sound Blaster:8 bit
 - Sound Blaster Pro:8 bit
