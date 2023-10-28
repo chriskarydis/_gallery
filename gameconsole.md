@@ -13,4 +13,6 @@ tags:
 - Videogames 
 - Videogame console 
 - Portable technology/ device
+- Portable device
+- Φορητή κονσόλα
 ---
