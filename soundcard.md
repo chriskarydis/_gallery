@@ -1,3 +1,4 @@
+---
 layout: timeline
 title: Κάρτες ήχου
 image_url: /istockphoto-870982646-612x612.jpg
@@ -17,5 +18,5 @@ events:
 - Environmental Audio Extensions
 - Intel High Definition Audio: 32 bit
 
-
+---
 
