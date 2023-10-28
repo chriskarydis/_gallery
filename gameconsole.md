@@ -24,10 +24,10 @@ events:
 - Thumby (TinyCircuits)
 - Ayaneo 2
 - ROG Ally (Asus)
-  categories:
-  - Κονσόλα βιντεοπαιχνιδιών
-  tags:
-  - Videogames 
-  - Videogame console 
-  - Portable technology/ device
+categories:
+- Κονσόλα βιντεοπαιχνιδιών
+tags:
+- Videogames 
+- Videogame console 
+- Portable technology/ device
 ---
