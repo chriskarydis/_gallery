@@ -1,3 +1,4 @@
+---
 layout: timeline
 title: Φορητή κονσόλα βιντεοπαιχνιδιών
 image_url: /Milton-Bradley-Microvision-FR.jpg
@@ -22,3 +23,4 @@ events:
 - Thumby (TinyCircuits)
 - Ayaneo 2
 - ROG Ally (Asus)
+---
