@@ -1,6 +1,6 @@
 ---
 author: epidrome
-title: Φορητή κονσόλα βιντεοπαιχνιδιών (1979)
+title: Milton Bradley Microvision (1979)
 year: 1979
 image_url: /images/Milton-Bradley-Microvision-FR.jpg
 
