@@ -10,6 +10,10 @@ categories:
   - Οπτικοποίηση της Πληροφορίας
   - Μορφές
   - Τεχνολογία
+  - Εικονική Πραγματικότητα
+  - virtual-reality
+  - vr-devices
+  - Virtual & Mixed Reality
 tags:
   - Apple
   - VR 
