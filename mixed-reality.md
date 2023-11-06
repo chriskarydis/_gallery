@@ -1,15 +1,19 @@
 ---
-author: epidrome
-image_url: /images/mixed-reality.png
-title: Φάσμα των τεχνολογιών μικτής πραγματικότητας 
-caption: 'Η εικονική και η επαυξημένη πραγματικότητα ορίζουν ένα φάσμα από εφαρμογές με διαφορετικό βαθμό επαύξησης ή εικονικότητας, στα οποία αναφερόμαστε συνολικά ως μικτή πραγματικότητα, έτσι ώστε να μπορούμε να κάνουμε πάντα σαφές ποιο είναι το μίγμα ή σε ποιό σημείο του φάσματος βρίσκεται μια εφαρμογή'
-license_url: 'https://en.wikipedia.org/wiki/Reality%E2%80%93virtuality_continuum'
-license_text: wikimedia
+author: inf2022076
+image_url: /images/apple-vision-pro.jpg
+title: Apple Vision Pro
+year: 2023
+caption: Η πρώτη ιδέα για τα γυαλιά εικονικής πραγματικότητας εμφανίστηκε από τον κινηματογραφίστα Morton Heilig το 1956 και υλοποιήθηκε το 1962 με το Sensorama. Συνδυάζονταν έγχρωμο 3D βίντεο, ήχος, δονήσεις, μυρωδιές και ατμοσφαιρικά φαινόμενα. Επιστρέφοντας στο σήμερα, η Apple έκανε την είσοδο της στην βιομηχανία των VR συσκευών τον Ιούνιο του 2023 με το Apple Vision Pro.
+license_url: "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/678dfc68-0d4f-4cac-817e-b2bc7a0b7c63/dfzgpbm-941593f6-78a7-45dd-8874-89e9782c52d3.jpg/v1/fill/w_1280,h_610,q_75,strp/apple_vision_pro_3d_model_pack_by_abdelrahman_dfzgpbm-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NjEwIiwicGF0aCI6IlwvZlwvNjc4ZGZjNjgtMGQ0Zi00Y2FjLTgxN2UtYjJiYzdhMGI3YzYzXC9kZnpncGJtLTk0MTU5M2Y2LTc4YTctNDVkZC04ODc0LTg5ZTk3ODJjNTJkMy5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.JWhP3a5BG7x_0jOsTgeuh1zLF64p64oXX1mAXzRWo30" 
+license_text: DeviantArt
 categories:
-  - Αρχέτυπα
-  - Μορφές 
-  - Εικονική Πραγματικότητα 
-  - Επαυξημένη Πραγματικότητα 
+  - Οπτικοποίηση της Πληροφορίας
+  - Μορφές
+  - Τεχνολογία
 tags:
-  - Μικτή Πραγματικότητα 
+  - Apple
+  - VR 
+  - Mixed-Reality
+  - Headset  
 ---
+
